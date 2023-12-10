@@ -1,0 +1,14 @@
+2023-12-10 15:30:11 HttpConnector Opening server socket on all host IP addresses
+2023-12-10 15:30:11 HttpConnector[8084] Starting background thread
+2023-12-10 15:30:11 HttpProcessor[8084][0] Starting background thread
+2023-12-10 15:30:11 HttpProcessor[8084][1] Starting background thread
+2023-12-10 15:30:11 HttpProcessor[8084][2] Starting background thread
+2023-12-10 15:30:11 HttpProcessor[8084][3] Starting background thread
+2023-12-10 15:30:11 HttpProcessor[8084][4] Starting background thread
+2023-12-10 15:30:11 Ajp13Connector[8009] Opening server socket on all host IP addresses
+2023-12-10 15:30:11 Ajp13Connector[8009] Starting background thread
+2023-12-10 15:30:11 Ajp13Processor[8009][0] Starting background thread
+2023-12-10 15:30:11 Ajp13Processor[8009][1] Starting background thread
+2023-12-10 15:30:11 Ajp13Processor[8009][2] Starting background thread
+2023-12-10 15:30:11 Ajp13Processor[8009][3] Starting background thread
+2023-12-10 15:30:11 Ajp13Processor[8009][4] Starting background thread
