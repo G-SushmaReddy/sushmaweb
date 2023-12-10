@@ -198,7 +198,7 @@
         <!-- Tomcat Examples Context -->
         
 
-      <Context docBase="webmaven" path="/webmaven" reloadable="true" source="org.eclipse.jst.j2ee.server:webmaven"/><Context docBase="mavenwebpipe" path="/mavenwebpipe" reloadable="true" source="org.eclipse.jst.j2ee.server:mavenwebpipe"/></Host>
+      <Context docBase="mavenwebpipe" path="/mavenwebpipe" reloadable="true" source="org.eclipse.jst.j2ee.server:mavenwebpipe"/></Host>
 
     </Engine>
 

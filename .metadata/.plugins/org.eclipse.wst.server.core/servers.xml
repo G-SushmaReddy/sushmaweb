@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v4.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v4.0 Server at localhost" name="Tomcat v4.0 Server at localhost" runtime-id="jakarta-tomcat-4.0.6" server-type="org.eclipse.jst.server.tomcat.40" server-type-id="org.eclipse.jst.server.tomcat.40" start-timeout="30" stop-timeout="15" testEnvironment="true" timestamp="3">
-    <list key="modules" value0="webmaven::org.eclipse.jst.j2ee.server:webmaven::jst.web::2.3" value1="mavenwebpipe::org.eclipse.jst.j2ee.server:mavenwebpipe::jst.web::2.3"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v4.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v4.0 Server at localhost" name="Tomcat v4.0 Server at localhost" runtime-id="jakarta-tomcat-4.0.6" server-type="org.eclipse.jst.server.tomcat.40" server-type-id="org.eclipse.jst.server.tomcat.40" start-timeout="30" stop-timeout="15" testEnvironment="true" timestamp="4">
+    <list key="modules" value0="mavenwebpipe::org.eclipse.jst.j2ee.server:mavenwebpipe::jst.web::2.3"/>
   </server>
   <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/jakarta-tomcat-4.0.6 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="jakarta-tomcat-4.0.6 at localhost" name="jakarta-tomcat-4.0.6 at localhost" runtime-id="jakarta-tomcat-4.0.6" server-type="org.eclipse.jst.server.tomcat.40" server-type-id="org.eclipse.jst.server.tomcat.40" start-timeout="30" stop-timeout="15" testEnvironment="true" timestamp="1">
     <list key="modules" value0="mavenwebpipe::org.eclipse.jst.j2ee.server:mavenwebpipe::jst.web::2.3"/>
   </server>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (2)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="6">
+    <list key="modules" value0="sushmamavenweb::org.eclipse.jst.j2ee.server:sushmamavenweb::jst.web::2.3"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (2)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (2)" name="Tomcat v9.0 Server at localhost (2)" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="6">
     <list key="modules" value0="sushmaweb::org.eclipse.jst.j2ee.server:sushmaweb::jst.web::2.3"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (3)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (3)" name="Tomcat v9.0 Server at localhost (3)" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="sushmamavenweb::org.eclipse.jst.j2ee.server:sushmamavenweb::jst.web::2.3"/>
   </server>
 </servers>
